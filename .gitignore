@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+.venv/
+__pycache__/
+
+# Ignore our local sandbox test files
+test_files/
