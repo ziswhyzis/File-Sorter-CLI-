@@ -19,7 +19,7 @@ Built entirely with **pure Python standard libraries**—meaning zero external d
 ### 1. Clone the Repository
 Open your terminal and pull down the code:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/file-sorter-cli.git](https://github.com/YOUR_USERNAME/file-sorter-cli.git)
+git clone https://github.com/ziswhyzis/file-sorter-cli.git
 cd file-sorter-cli
 ```
 
