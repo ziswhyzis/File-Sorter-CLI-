@@ -7,10 +7,10 @@ Built entirely with **pure Python standard libraries**—meaning zero external d
 ---
 
 ## ✨ Features
-* 🚀 **Zero Setup:** No `pip install` required. If you have Python 3, you're ready to go[cite: 1].
-* 📦 **Modular Architecture:** Clean separation of configuration, system operations, and CLI interface[cite: 1].
-* 🛡️ **Safe Execution:** Skips existing folders and leaves unknown file extensions completely untouched[cite: 1].
-* 🎯 **Target Anywhere:** Pass any directory path as a terminal argument to clean it up instantly[cite: 1].
+ **Zero Setup:** No `pip install` required. If you have Python 3, you're ready to go[cite: 1].
+ **Modular Architecture:** Clean separation of configuration, system operations, and CLI interface[cite: 1].
+ **Safe Execution:** Skips existing folders and leaves unknown file extensions completely untouched[cite: 1].
+ **Target Anywhere:** Pass any directory path as a terminal argument to clean it up instantly[cite: 1].
 
 ---
 
