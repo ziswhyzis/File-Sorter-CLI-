@@ -14,12 +14,22 @@ Built entirely with **pure Python standard libraries**—meaning zero external d
 
 ---
 
+## 🐍 Don't have Python?
+This tool requires **Python 3**. You can check if you already have it by typing `python --version` or `python3 --version` in your terminal. 
+
+If you need to install it:
+* **Windows:** Download it directly from the official **Microsoft Store** app (search for "Python") or [python.org](https://www.python.org/downloads/).
+* **Linux (Ubuntu):** Open your terminal and run `sudo apt install python3`.
+* **macOS:** Open your terminal and run `brew install python` or download it from [python.org](https://www.python.org/downloads/).
+
+---
+
 ## 🛠️ How to Use
 
 ### 1. Clone the Repository
 Open your terminal (or Command Prompt/PowerShell on Windows) and run:
 ```bash
-git clone [https://github.com/ziswhyzis/File-Sorter-CLI-.git](https://github.com/ziswhyzis/File-Sorter-CLI-.git)
+git clone https://github.com/ziswhyzis/File-Sorter-CLI-.git
 cd File-Sorter-CLI-
 ```
 
